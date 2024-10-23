@@ -33,6 +33,7 @@ This guide will work with ChromeOS 129+.
 If not found, enable developer options by going to the About section and clicking on the Build Number 7 times.
 
 ![Open Developer Options and Scroll to ADB Debugging](enable_wifi_debug_4.png)
+
 Turn on both ADB Debugging and Wi-Fi Debugging.
 
 ![Click on Wi-Fi Debugging and Make Note of IP](enable_wifi_debug_5.png)
@@ -43,6 +44,7 @@ Turn on both ADB Debugging and Wi-Fi Debugging.
 2. Try to connect using the IP copied from the Android instance.
    
 ![Connect from Dev Machine](dev_machine_1.png)
+
 Allow the popup.
 
 ![Allow from ChromeOS](dev_machine_2.png)
