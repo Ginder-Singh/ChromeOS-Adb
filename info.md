@@ -23,7 +23,6 @@ This guide will work with ChromeOS 129+.
 ![Open Settings](enable_adb_1.png)
 ![Click on Develop Android Apps](enable_adb_2.png)
 ![Turn on Toggle](enable_adb_3.png)
-![Open Settings](enable_adb_4.png)
 
 ### Turn on Wi-Fi Debugging in Android Instance
 
