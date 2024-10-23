@@ -30,11 +30,12 @@ This guide will work with ChromeOS 129+.
 ![Click Android Settings](enable_wifi_debug_2.png)
 ![Scroll Down to Developer Settings](enable_wifi_debug_3.png)
 
-If not found, enable developer options by going to the About section and clicking on the Build Number 7 times.
+If developer options not found, enable developer options by going to the About section and clicking on the Build Number 7 times.
 
 ![Open Developer Options and Scroll to ADB Debugging](enable_wifi_debug_4.png)
 
-Turn on both ADB Debugging and Wi-Fi Debugging.
+1. Turn on both ADB Debugging and Wi-Fi Debugging.
+2. Click on wifi debugging and Make note of IP
 
 ![Click on Wi-Fi Debugging and Make Note of IP](enable_wifi_debug_5.png)
 
